@@ -45,7 +45,7 @@ export const Footer = () => {
           </a>
 
           <a
-            href="https://github.com/saumya19112091"
+            href="https://github.com/saumya673"
             className="footer__social-link"
             target="_blank"
             rel="noopener noreferrer" // Add this
